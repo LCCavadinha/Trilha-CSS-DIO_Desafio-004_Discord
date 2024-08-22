@@ -6,8 +6,7 @@
     --font-open-sans: "Open Sans", sans-serif;
     /* COLORS */
     --primary-color: #23272A;
-    --secundary-color: #FFFFFF;
-    --bg-secundary:#F6F6F6;
+    --secondary-color: #FFFFFF;
+    --bg-secondary:#F6F6F6;
     --hover-button: #5865f2;
-    --bg-color:#8086c5;
 }
